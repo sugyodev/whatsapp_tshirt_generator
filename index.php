@@ -20,11 +20,11 @@
     	</div>
     	<div class="display">
     		<div class="name-edit">
-    			<span class="bg-color ">NAME</span>
+    			<span class="bg-color ">NOM</span>
     			<input id="name" onchange="nameChange(event)" />
     		</div>
     		<div class="number-edit">
-    			<span class="bg-color ">NUMBER</span>
+    			<span class="bg-color ">NUMERO</span>
     			<input id="number" />
     		</div>
     	</div>
